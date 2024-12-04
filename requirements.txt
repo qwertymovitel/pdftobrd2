@@ -1,0 +1,6 @@
+flask==2.0.1
+PyMuPDF==1.18.14
+opencv-python==4.5.3.56
+networkx==2.6.2
+numpy==1.21.2
+werkzeug==2.0.
